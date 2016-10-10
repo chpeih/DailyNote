@@ -1,0 +1,2 @@
+# DailyNote
+Some Knowledge
