@@ -4,7 +4,7 @@
 ---
 ## Table of Contents
 
-- [Github note](#Github-note)
+- [Github note](#github-note)
 - 1111
 - 1111
 - 1111
