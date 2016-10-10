@@ -4,9 +4,9 @@
 ---
 ## Table of Contents
 
-- [Github](#Github-note)
+- [Github note](#Github-note)
 
 
 ---
-## Github
+## Github note
 	Test
